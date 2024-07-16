@@ -1,3 +1,5 @@
+** Por favor revisa que el proyecto está en la rama Master!
+
 # ForoHub
 
 Foro Hub es una API de back-end desarrollada para administrar un foro de discusión. Los usuarios pueden registrarse, autenticarse y realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en los tópicos del foro, con seguridad proporcionada por JWT. Este proyecto fue creado como parte del programa de formación de Oracle Next Education (ONE) y Alura Latam, empleando Java, el framework Spring Boot y MySQL.
